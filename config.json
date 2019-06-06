@@ -1,10 +1,10 @@
 {  "accounts":
     [
-        {"id": "051916877606", "name": "dev", "default": true}
+        {"id": "1234567890", "name": "dev", "default": true}
     ],
     "cidrs":
     {
-        "80.229.155.239/32": {"name": "Home IP"},
-        "217.33.26.194/32": {"name": "Office IP"}
+        "12.23.34.56/32": {"name": "Home IP"},
+        "23.34.45.67/32": {"name": "Office IP"}
     }
 }
