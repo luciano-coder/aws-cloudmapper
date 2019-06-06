@@ -1,0 +1,10 @@
+{  "accounts":
+    [
+        {"id": "051916877606", "name": "dev", "default": true}
+    ],
+    "cidrs":
+    {
+        "80.229.155.239/32": {"name": "Home IP"},
+        "217.33.26.194/32": {"name": "Office IP"}
+    }
+}
